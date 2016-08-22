@@ -1,0 +1,30 @@
+/* Inserta tu CSS aqui */
+.caja{
+
+	width: 100px;
+	height: 100px;
+	background-color:blue;
+	margin:10px;
+}
+.contenedor{
+	width:315px;
+	height: 100px;
+	background-color: red;
+	margin: 10px;
+	padding: 10px;
+	border: 1px solid blue;
+
+}
+.interno{
+	width: 100px;
+	height: 100px;
+	background-color: black;
+	display:inline-block;
+}
+.cubo{
+	width: 100px;
+	height: 100px;
+	background-color: orange;
+	margin:10px;
+	display:inline-block;
+}
